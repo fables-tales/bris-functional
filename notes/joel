@@ -1,0 +1,29 @@
+-why javascript is functional-
+
+jquery: wrapper around javascript, hiding some things
+implying that we have managers
+
+javascript has first class functions and closures
+
+ECMA is the standard
+
+DOM api, libraries normalize browsers so that there's no cross browser variation.
+(mad)
+
+systems programming
+
+3 equals signs ala php
+
+javascript: the good parts
+"lisp in C's clothing..."
+
+rails for javascript soon
+
+javascript apps asyncronous
+
+webworkers allow multicore
+
+qunit javascript testing
+
+javascript privacy using scoping
+jquery returns itself
